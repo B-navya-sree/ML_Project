@@ -3,6 +3,10 @@
       This project aims to detect whether a news article is real or fake using Machine Learning techniques.
       The model is trained on labeled news data and predicts the authenticity of unseen news articles.
 
+      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/B-navya-sree/ML_Project/blob/master/FakeNewsDetection.ipynb)
+
+
 # 🚀 Features
         Text preprocessing (cleaning, tokenization)
         TF-IDF / Bag of Words feature extraction
