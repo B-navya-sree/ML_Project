@@ -4,7 +4,8 @@
       The model is trained on labeled news data and predicts the authenticity of unseen news articles.
 
       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/B-navya-sree/ML_Project/blob/master/FakeNewsDetection.ipynb)
+https://colab.research.google.com/github/B-navya-sree/ML_Project/blob/master/FakeNewsDetection%20(1).ipynb)
+
 
 
 # 🚀 Features
